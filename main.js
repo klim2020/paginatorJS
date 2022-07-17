@@ -98,7 +98,7 @@
                             }
 
                         };
-
+//do it as you wish, dont forget to provid ea link to variable 
                         window.addEventListener('DOMContentLoaded', ()=>{
                             //console.log('#tabcontent_{{$key}} .row .card');
                             window.paginators[{{$key}}] = window.paginatorFromElements.init(
