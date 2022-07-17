@@ -1,0 +1,2 @@
+# paginatorJS
+Simple Paginator 
